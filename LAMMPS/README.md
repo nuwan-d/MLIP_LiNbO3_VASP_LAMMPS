@@ -6,9 +6,7 @@ The workflow demonstrated here applies the trained MLIP within LAMMPS to compute
 
 ## Workflow Overview
 
-<p align="center">
-  <img src="lammps_outline.png" width="650">
-</p>
+
 
 <p align="center">
   <em>
