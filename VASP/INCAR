@@ -1,0 +1,31 @@
+SYSTEM = LN_unit_cell
+
+! ab initio
+ISMEAR = 0         ! Gaussian smearing
+SIGMA  = 0.02      ! smearing in eV
+IVDW   = 10
+ENCUT  = 550
+NCORE  = 2
+
+LWAVE  = F
+LCHARG = F
+LREAL  = Auto     ! projection operators in real space
+ISYM   = 0        ! no symmetry imposed
+
+! MD
+IBRION = 0        	! MD (treat ionic degrees of freedom)
+NSW    = 1350   	! No of ionic steps
+POTIM  = 1      	! MD time step in fs
+MDALGO = 3                ! Langevin thermostat
+LANGEVIN_GAMMA   = 1 0 0  ! friction
+LANGEVIN_GAMMA_L = 10     ! lattice friction
+PMASS  = 10               ! lattice mass
+TEBEG  = 1401              ! temperature-start
+TEEND  = 1501              ! temperature-end
+ISIF   = 3                 ! 2-fix cell volume; 3-update cell volume
+
+! machine learning
+ML_LMLFF  = T
+ML_MODE   = train
+
+RANDOM_SEED =         688344966                0                0
