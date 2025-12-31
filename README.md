@@ -1,5 +1,5 @@
 ## Overview
-This repository provides an end-to-end framework for developing DFT-trained machine-learning interatomic potentials (MLIPs) for lithium niobate (LiNbO₃) and applying them to large-scale mechanical simulations using LAMMPS.
+This repository provides an end-to-end framework for developing DFT-trained machine-learning interatomic potentials for lithium niobate (LiNbO₃), using VASP on-the-fly learning, and their application to large-scale simulations using LAMMPS.
 
 <p align="center">
   <img src="outline.png" width="900">
