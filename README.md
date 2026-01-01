@@ -12,3 +12,5 @@ This repository provides an end-to-end framework for developing DFT-trained mach
   stress–strain postprocessing.
   </em>
 </p
+
+This research was supported by the Defense Advanced Research Projects Agency (DARPA) CRYSTAL ARC.
