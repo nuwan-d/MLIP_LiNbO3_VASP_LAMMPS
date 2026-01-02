@@ -26,10 +26,15 @@ As shown in the validation results below, the MLIP reproduces the experimental l
 constants at finite temperature and captures both the anisotropy and magnitude of the
 thermal expansion coefficients along the *a*, *b*, and *c* crystallographic directions.
 
+<p align="center">
+  <img src="validation.png" width="500">
+</p>
 
----
 
-**Funding:**  
-This research was supported by the **Defense Advanced Research Projects Agency (DARPA)**
-under the **CRYSTAL ARC** program.
+
+## Funding
+
+This research was supported by the **Defense Advanced Research Projects Agency (DARPA)** under the
+**CRYSTAL ARC** program.
+
 
