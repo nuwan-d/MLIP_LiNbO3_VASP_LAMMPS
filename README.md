@@ -31,6 +31,21 @@ thermal expansion coefficients along the *a*, *b*, and *c* crystallographic dire
 </p>
 
 
+## Additional Resources
+
+For readers interested in the underlying methodology and broader applications of
+VASP machine-learning force fields (MLFF), the following resources may be useful:
+
+
+- **VASP Tutorial: Machine-Learning Force Fields**  
+  https://www.vasp.at/tutorials/latest/md/part2/
+
+- **VASP Lectures**
+  1. *Basics of Machine-Learning Force Fields*  
+     https://youtu.be/f1VXKVlVhg4
+  2. *Chemical Reactions Using Machine-Learning Force Fields*  
+     https://youtu.be/bzzHpTBwxbA
+
 
 ## Funding
 
